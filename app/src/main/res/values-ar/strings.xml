@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">TeleBubble</string>
+    <string name="privacy_badge_title">أمان وخصوصية 100%</string>
+    <string name="privacy_badge_description">التطبيق لا يتصل بالإنترنت نهائياً، ولا يسجل أو يخزن أي رسائل أو بيانات خاصة بك على الإطلاق. كل شيء يتم في الذاكرة العشوائية المؤقتة للحفاظ على خصوصيتك المطلقة.</string>
+    <string name="settings_section_title">الإعدادات اللازمة لتفعيل التطبيق</string>
+    <string name="notification_permission_title">إذن الوصول للإشعارات</string>
+    <string name="notification_permission_description">مطلوب لقراءة إشعارات رسائل تيليجرام المعلقة وتحديث عداد الفقاعة العائمة تلقائياً.</string>
+    <string name="overlay_permission_title">إذن الظهور فوق التطبيقات</string>
+    <string name="overlay_permission_description">مطلوب لإظهار الفقاعة العائمة التي تعرض عداد الرسائل فوق الشاشة والتطبيقات الأخرى.</string>
+    <string name="permission_enabled">مفعّل</string>
+    <string name="permission_disabled">غير مفعّل</string>
+    <string name="permission_enable_btn">تفعيل</string>
+    <string name="permission_toast_notification">الرجاء تفعيل TeleBubble في القائمة</string>
+    <string name="permission_toast_overlay">الرجاء السماح بالظهور فوق التطبيقات</string>
+    <string name="control_center_title">مركز التحكم والتجربة</string>
+    <string name="btn_close_bubbles">إغلاق الفقاعات</string>
+    <string name="btn_test_bubble">تجربة فقاعة عائمة</string>
+    <string name="test_bubble_toast">تم إرسال فقاعة تجريبية! افحص شاشتك 🎈</string>
+    <string name="dismiss_bubbles_toast">تم إغلاق جميع الفقاعات العائمة</string>
+    <string name="control_center_note">ملاحظة: اضغط على زر \'تجربة فقاعة عائمة\' لمحاكاة رسالة تيليجرام واختبار شكل الفقاعة العائمة مباشرة على شاشتك والتفاعل معها.</string>
+    <string name="filtering_section_title">فلترة وتصفية الرسائل الذكية</string>
+    <string name="filtering_section_description">تحكم في نوع الرسائل والإشعارات التي تظهر كفقاعات عائمة لتجنب الإزعاج من المجموعات والقنوات.</string>
+    <string name="toggle_only_dm_title">تصفية الرسائل الشخصية فقط</string>
+    <string name="toggle_only_dm_desc">عند التفعيل، سيقوم التطبيق بعرض الرسائل الواردة من المحادثات الثنائية المباشرة فقط وتجاهل المجموعات والقنوات والبوتات تلقائياً.</string>
+    <string name="toggle_block_groups_title">حجب إشعارات المجموعات</string>
+    <string name="toggle_block_groups_desc">تجاهل الرسائل القادمة من مجموعات تيليجرام وتجنب الاهتزاز أو التنبيهات المستمرة.</string>
+    <string name="toggle_block_channels_title">حجب منشورات القنوات</string>
+    <string name="toggle_block_channels_desc">تجاهل إشعارات البث التلقائي ومنشورات القنوات العامة والمشتركة.</string>
+    <string name="toggle_block_bots_title">حجب رسائل البوتات (Bots)</string>
+    <string name="toggle_block_bots_desc">تجنب إظهار فقاعات للرسائل الآلية القادمة من روبوتات تيليجرام.</string>
+    
+    <!-- Privacy & Sound features -->
+    <string name="privacy_features_title">الخصوصية القصوى والتشفير</string>
+    <string name="privacy_features_desc">تهيئة بروتوكولات حماية صارمة على مستوى الذاكرة العشوائية لمسح أي أثر فوراً وتعمية نصوص الإشعارات.</string>
+    <string name="toggle_auto_clear_title">الحذف الفوري للرسائل بعد فتحها</string>
+    <string name="toggle_auto_clear_desc">عند الضغط على الفقاعة وفتح المحادثة في تيليجرام، يتم إتلاف ومسح الإشعار وتفاصيله فوراً من ذاكرة التطبيق بشكل لا رجعة فيه.</string>
+    <string name="toggle_encrypt_ram_title">تشفير وتعمية نصوص الرسائل في الذاكرة</string>
+    <string name="toggle_encrypt_ram_desc">تشفير أسماء المرسلين ومحتوى الرسائل وتعميتها تماماً في الذاكرة العشوائية مع عرضها كـ (••••••) لضمان عدم بقائها كـ نص واضح بأي شكل.</string>
+    
+    <string name="sound_settings_title">نغمة تنبيه الفقاعة</string>
+    <string name="sound_settings_desc">اختر الصوت المفضل الذي يتم تشغيله بمجرد الكشف عن إشعار جديد وظهور الفقاعة العائمة.</string>
+    <string name="sound_option_silent">صامت / بدون صوت</string>
+    <string name="sound_option_default">صوت الإشعارات الافتراضي للنظام</string>
+    <string name="sound_option_pop">صوت فرقعة فقاعة لطيفة (Pop)</string>
+    <string name="sound_option_chime">صوت جرس رنين كلاسيكي (Chime)</string>
+
+    <string name="app_header_desc">فقاعات الإشعارات الذكية لتيليجرام 💬</string>
+    <string name="app_header_body">يقوم التطبيق بتحويل إشعارات تيليجرام المعلقة إلى فقاعة عائمة تعرض عدد الرسائل (مثل 5 أو 6 رسائل). عند الضغط على الفقاعة، يتم فتح المحادثة مباشرة داخل تطبيق تيليجرام الرسمي.</string>
+    <string name="toast_bubble_failed">فشل بدء الفقاعة العائمة. يرجى تفعيل إذن الظهور فوق التطبيقات.</string>
+    <string name="telegram_not_installed">تطبيق تيليجرام غير مثبت على جهازك</string>
+</resources>

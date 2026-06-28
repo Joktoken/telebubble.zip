@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">TeleBubble</string>
+    <string name="privacy_badge_title">100% Private &amp; Secure</string>
+    <string name="privacy_badge_description">The app never connects to the internet and never logs or stores any of your messages or private data. Everything is processed purely in temporary volatile memory to ensure your absolute privacy.</string>
+    <string name="settings_section_title">Required Setup Permissions</string>
+    <string name="notification_permission_title">Notification Access Permission</string>
+    <string name="notification_permission_description">Required to read pending Telegram notification messages and automatically update the floating bubble counter.</string>
+    <string name="overlay_permission_title">Display Over Other Apps</string>
+    <string name="overlay_permission_description">Required to show the floating bubble that displays the message counter on top of your screen and other apps.</string>
+    <string name="permission_enabled">Enabled</string>
+    <string name="permission_disabled">Disabled</string>
+    <string name="permission_enable_btn">Enable</string>
+    <string name="permission_toast_notification">Please enable TeleBubble in the list</string>
+    <string name="permission_toast_overlay">Please allow display over other apps</string>
+    <string name="control_center_title">Control &amp; Simulation Center</string>
+    <string name="btn_close_bubbles">Dismiss Bubbles</string>
+    <string name="btn_test_bubble">Test Floating Bubble</string>
+    <string name="test_bubble_toast">Test bubble sent! Check your screen 🎈</string>
+    <string name="dismiss_bubbles_toast">All floating bubbles closed</string>
+    <string name="control_center_note">Note: Click \'Test Floating Bubble\' to simulate a Telegram message and test the look and interactivity of the floating bubble on your screen.</string>
+    <string name="filtering_section_title">Smart Message Filtering</string>
+    <string name="filtering_section_description">Control which types of messages and notifications appear as floating bubbles to avoid spam or clutter from groups and channels.</string>
+    <string name="toggle_only_dm_title">Only Personal Direct Messages</string>
+    <string name="toggle_only_dm_desc">When enabled, the app will only show incoming messages from direct 1-to-1 chats and automatically ignore groups, channels, and bots.</string>
+    <string name="toggle_block_groups_title">Block Group Notifications</string>
+    <string name="toggle_block_groups_desc">Ignore incoming messages from Telegram groups and avoid constant vibrations or alerts.</string>
+    <string name="toggle_block_channels_title">Block Channel Posts</string>
+    <string name="toggle_block_channels_desc">Ignore automated broadcast notifications and posts from public and subscribed channels.</string>
+    <string name="toggle_block_bots_title">Block Bot Messages</string>
+    <string name="toggle_block_bots_desc">Avoid showing floating bubbles for automated messages originating from Telegram bots.</string>
+    
+    <!-- Privacy & Sound features -->
+    <string name="privacy_features_title">Strict Privacy &amp; Encryption</string>
+    <string name="privacy_features_desc">Configure strict, military-grade in-memory privacy protocols to erase traces instantly.</string>
+    <string name="toggle_auto_clear_title">Instant Erase on Open</string>
+    <string name="toggle_auto_clear_desc">When tapping the bubble to open Telegram, the notification is instantly and completely purged from the app memory.</string>
+    <string name="toggle_encrypt_ram_title">Strict In-Memory Masking</string>
+    <string name="toggle_encrypt_ram_desc">Mask and obscure sender names and messages in volatile RAM with placeholder (••••••) so that no plain text can ever be read.</string>
+    
+    <string name="sound_settings_title">Bubble Sound Settings</string>
+    <string name="sound_settings_desc">Choose your preferred sound alert when a new notification is detected and the bubble appears.</string>
+    <string name="sound_option_silent">Silent / No Sound</string>
+    <string name="sound_option_default">Default Notification Sound</string>
+    <string name="sound_option_pop">Bubble Pop Effect</string>
+    <string name="sound_option_chime">Classic Bell/Chime</string>
+
+    <string name="app_header_desc">Smart notification bubbles for Telegram 💬</string>
+    <string name="app_header_body">This application converts pending Telegram notifications into a floating overlay showing message counts (e.g., 5 or 6 messages). Tapping the bubble opens the chat directly inside the official Telegram app.</string>
+    <string name="toast_bubble_failed">Failed to start floating bubble. Please enable overlay permission.</string>
+    <string name="telegram_not_installed">Telegram is not installed on your device</string>
+</resources>

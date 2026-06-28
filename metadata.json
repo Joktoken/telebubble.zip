@@ -1,0 +1,6 @@
+{
+  "name": "TeleBubble",
+  "description": "تطبيق يجعل رسائل تيليجرام تظهر في فقاعة عائمة على شاشتك لتسهيل الرد السريع مثل فيسبوك مسنجر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
